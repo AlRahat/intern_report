@@ -1,7 +1,8 @@
 # 📄 Internship Report on BANSDOC  
 **Bangladesh National Scientific and Technical Documentation Center (BANSDOC)**  
 
-[![Download Report](https://img.shields.io/badge/Download_Report-PDF-blue?style=for-the-badge&logo=adobeacrobatreader)]([https://github.com/AlRahat/intern_report/raw/main/Internship_report.pdf)]
+## 📄 Full Report
+📥 [Download the Complete Research Report (PDF)](https://github.com/AlRahat/Report_on-Responsible-AI-Practice-in-Museum-and-Archives/raw/main/Responsible%20AI%20Practice%20in%20Museums%20and%20Archives_%20A%20Narrative%20Review.pdf)
 
 ---
 
