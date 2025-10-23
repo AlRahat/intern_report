@@ -1,7 +1,7 @@
 # 📄 Internship Report on BANSDOC  
 **Bangladesh National Scientific and Technical Documentation Center (BANSDOC)**  
 
-[![Download Report](https://img.shields.io/badge/Download_Report-PDF-blue?style=for-the-badge&logo=adobeacrobatreader)]([https://github.com/AlRahat/Internship_Report-BANSDOC/raw/main/Internship_Report.pdf)](https://github.com/AlRahat/intern_report/blob/main/Internship_report.pdf)
+[![Download Report](https://img.shields.io/badge/Download_Report-PDF-blue?style=for-the-badge&logo=adobeacrobatreader)]([https://github.com/AlRahat/intern_report/raw/main/Internship_report.pdf)]
 
 ---
 
